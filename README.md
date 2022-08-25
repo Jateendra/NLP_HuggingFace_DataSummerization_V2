@@ -4,8 +4,6 @@
 
   174  conda create -n data_summerization python==3.7 -y
   
-  175  conda activate data_summerization
-  
   176  source activate data_summerization
   
   177  pip install requests
@@ -20,7 +18,6 @@
   
   182  conda list
   
-  183  flask run
   184  pip freeze > requirements.txt
 
 

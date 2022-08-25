@@ -1,4 +1,4 @@
-# NLP_HuggingFace_DataSummerization_V1
+# NLP_HuggingFace_DataSummerization_V2
 
 ## 1 ) Installing history :
 
